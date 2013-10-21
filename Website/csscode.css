@@ -1,0 +1,17 @@
+body    {
+	background:#2b1b17;
+	font-family:Arial, Helvetica, sans-serif;
+}
+
+/*LAYOUT RULES*/
+
+header  {
+	padding:0.625em 5%;
+	font-family:"Roboto Condensed", Arial, Helvetica, sans-serif;
+		font-weight:400; 
+		color:#fff;
+}
+nav { 
+	background:url(placeholderimage.jpg); /* Pattern by Simon Leo, 
+downloaded from subtlepatterns.com */ 
+ padding:0.625em 5%; 
